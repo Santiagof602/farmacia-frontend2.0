@@ -1,12 +1,26 @@
-import Navbar from './componentes/Navbar';
+import './App.css'
+import Navbar from './Components/Navbar'
 
 function App() {
   return (
-    <>
-      <Navbar />
-      <h1>Bienvenido a la Farmacia</h1>
-    </>
-  );
+    <div className="app">
+      <header>
+      
+      </header>
+
+      <nav>
+        <Navbar/> 
+      </nav>
+
+      <main>
+       
+      </main>
+
+      <footer>
+
+      </footer>
+    </div>
+  )
 }
 
-export default App;
+export default App
