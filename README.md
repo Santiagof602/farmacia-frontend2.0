@@ -1,1 +1,0 @@
-# farmacia-frontend2.0
